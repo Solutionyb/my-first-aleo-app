@@ -82,6 +82,15 @@ to make sure your web server is configured with the following headers:
 
 ```
 Cross-Origin-Opener-Policy: same-origin
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 Cross-Origin-Embedder-Policy: require-corp
 ```
 
